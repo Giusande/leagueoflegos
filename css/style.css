@@ -164,7 +164,7 @@ nav ul .bx-x, nav ul h1, nav .bx-menu{
    padding: 5px;
   background: #fff;
   border: 0;
-  border: 3px solid #7100A680;
+  border: 1px solid #7100A680;
   border-radius: 5px;
   color: #7100A6;
   cursor: pointer;
@@ -197,7 +197,7 @@ nav ul .bx-x, nav ul h1, nav .bx-menu{
    padding: 5px;
   background: #fff;
   border: 0;
-  border: 3px solid #7100A680;
+  border: 1px solid #7100A680;
   border-radius: 5px;
   color: #7100A6;
   cursor: pointer;
@@ -424,7 +424,7 @@ nav ul .bx-x, nav ul h1, nav .bx-menu{
     text-align: center;
     margin-top: 10px;
     margin-bottom: 40px;
-    font-weight: 200;
+    font-weight: 400;
   }
   
   nav ul li .bx{
